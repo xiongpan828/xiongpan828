@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋 我是xiongpan828 目前就职于成都某司，主要写 Golang，欢迎 Follow
+
+<td valign="top"  width="50%">
+
+#### 💹 [Github Stats](https://github.com/xiongpan828)
+
+[![xiongpan828's github stats](https://github-readme-stats.vercel.app/api?username=xiongpan828&count_private=true&show_icons=true)](https://github.com/xiongpan828)
+  
+</td>
 
 <!--
 **xiongpan828/xiongpan828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
